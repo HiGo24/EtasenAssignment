@@ -1,5 +1,13 @@
 # EtasenAssignment
-It is a working application. You can share the github link for the code.
+It is a working application. Showing ticker data from the API. A java and Reactjs based project.
+
+I took data from the API link in the form of json.
+converted json String into jsonObject 
+Parse JsonObject into Database phpmysql
+Then fetch data from the database to the React App.
+
+
+
 
 Frontend ReactJs/Backend Springboot with Java 8 or higher
 1. Create a page which shows ticker data for APPL,GOOG and MSFT
